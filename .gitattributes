@@ -1,0 +1,15 @@
+# Auto detect text files and perform LF normalization
+* text eol=lf
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.jpg binary
+*.ttf binary
+*.so binary
+*.jar binary
+*.gif binary
+*.wav binary
+*.zip binary
+*.jnilib binary
+*.dylib binary
+*.dll binary
