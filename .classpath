@@ -3,11 +3,11 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="res"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="libs_gl/jar/lwjgl.jar" sourcepath="libs_gl/jar/lwjgl-source.zip">
+	<classpathentry kind="lib" path="libs_gl/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="libs_gl/lwjgl.jar">
 		<attributes>
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="GameTest/libs_gl/native/windows"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="libs_gl/jar/lwjgl_util.jar" sourcepath="libs_gl/jar/lwjgl-source.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
